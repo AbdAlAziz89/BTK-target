@@ -4,9 +4,4 @@ This project contains a Python script designed for the fast initial scoring of b
 Requirements
 To run this script, you will need the following Python libraries:
 
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-rdkit
+pandas, numpy, seaborn, matplotlib, scikit-learn, rdkit
